@@ -4,26 +4,26 @@ Projet fil-rouge lors de ma formation Data-Scientist chez Data-Scientest
 
 Objectifs principaux :
 - Comparer les tirs (fréquence et efficacité au tir par situation de jeu et par localisation sur le terrain) de 20 des meilleurs joueurs de NBA du 21ème siècle (selon ESPN) : 
-Tim Duncan
-Kobe Bryant
-Allen Iverson
-Steve Nash
-Ray Allen
-Paul Pierce
-Pau Gasol
-Tony Parker
-Manu Ginobili
-Dwayne Wade
-LeBron James
-Chris Paul
-Kevin Durant
-Russell Westbrook
-Stephen Curry
-James Harden
-Kawhi Leonard
-Damian Lillard
-Anthony Davis
-Giannis Antetokounmpo
+    - Tim Duncan
+    - Kobe Bryant
+    - Allen Iverson
+    - Steve Nash
+    - Ray Allen
+    - Paul Pierce
+    - Pau Gasol
+    - Tony Parker
+    - Manu Ginobili
+    - Dwayne Wade
+    - LeBron James
+    - Chris Paul
+    - Kevin Durant
+    - Russell Westbrook
+    - Stephen Curry
+    - James Harden
+    - Kawhi Leonard
+    - Damian Lillard
+    - Anthony Davis
+    - Giannis Antetokounmpo
 
 - Pour chacun de ces 20 joueurs encore actifs aujourd’hui (de LeBron James à Giannis Antetokounmpo), estimer à l’aide d’un modèle la probabilité qu’a leur tir de rentrer dans le panier, en fonction de métriques telles que : 
 
